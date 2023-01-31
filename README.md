@@ -1,9 +1,11 @@
 # 💫 About Me:
-🧑‍💻 I am 18 years old Front-end developer <br>⚡️ 2 and half years experience in Frontend development and a student at high school of information technology
+🧑‍💻 I'm an 18 year old Front-end developer and I'm studying Information Technology in high school.
+<br>
+⚡️ 2 and a half years of frontend development experience.
 <br>
 ⛰️ My hobbies include hiking and programming
 <br>
-📈 I am a frontend enthusiast who is not afraid to take on new things, who loves to learn and improve my skills
+📈 I am an enthusiast in this field who is not afraid to venture into new things, who loves to learn and improve my skills.
 <br>
 🖥️ My portfolio website https://kovoun.netlify.app/
 
