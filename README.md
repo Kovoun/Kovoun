@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧑‍💻 I'm an 18 year old front-end developer studying high school information technology.
 <br>
-⚡️ 2 and a half years of frontend development experience.
+⚡️ 3 years of frontend development experience.
 <br>
 ⛰️ My hobbies include hiking and programming
 <br>
