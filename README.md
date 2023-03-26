@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm an 18 year old front-end developer studying high school information technology.
+🧑‍💻 I'm an 18 year old Frontend Developer studying high school information technology.
 <br>
 ⚡️ 3 years of frontend development experience.
 <br>
