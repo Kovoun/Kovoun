@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-⚡️ 3 years of frontend development experience.
+⚡️ 4 years of frontend development experience.
 <br>
 ⛰️ My hobbies include hiking and programming
 <br>
