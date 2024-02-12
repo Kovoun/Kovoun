@@ -6,7 +6,7 @@
 <br>
 📈 I am an enthusiast in this field who is not afraid to venture into new things, who loves to learn and improve my skills.
 <br>
-🖥️ My portfolio website https://kovoun.com
+🖥️ My personal website https://tkovarik.cz/
 
 
 
